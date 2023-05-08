@@ -1,5 +1,8 @@
 /*
-////////////////////////////////////
-// Linking a JavaScript File
-let js = "amazing";
-console.log(40 + 8 + 23 - 10);
+********************************
+Lier un fichier JavaScript
+********************************
+*/
+let welcomeMessage = "Bienvenue dans ce cours";
+console.log(welcomeMessage);
+console.log(4 + 5);
